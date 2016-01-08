@@ -178,6 +178,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |前端乱炖|http://www.html-js.com/|国内前端技术社区|
 | DIV.IO | http://div.io/ | 国内前端技术社区 |
 | w3ctech | http://www.w3ctech.com/ | 国内前端技术社区，常有一些线下活动发布 |
+| 前端开发博客 | http://caibaojian.com/ | 每天更新的博客社区 |
 
 
 ##### 企业官方博客
